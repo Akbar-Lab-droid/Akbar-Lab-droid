@@ -17,8 +17,7 @@
 
 ### GitHub Stats
 ![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akbar-Lab-droid&show_icons=true&theme=radical&cache_seconds=30)
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar-Lab-droid&theme=radical" />
-</p>
+![GitHub Streak](https://streak-stats.demolab.com?user=Akbar-Lab-droid&theme=radical&cache_seconds=30)
 
 ### Kegiatan Sekarang
 - Belajar bikin AI 
