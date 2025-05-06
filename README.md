@@ -1,16 +1,25 @@
-## Hi there 👋
+<h1 align="center">Hi, I'm Akbar Ramadhan</h1>
+<p align="center">Pengen Jadi Ultraman, tapi masih ngoding</p>
 
-<!--
-**Akbar-Lab-droid/Akbar-Lab-droid** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### Tools & Tech
+![Python](https://img.shields.io/badge/-Python-black?style=flat-square&logo=python)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Akbar-Lab-droid&show_icons=true&theme=radical" />
+  <br>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar-Lab-droid&theme=radical" />
+</p>
+
+### Kegiatan Sekarang
+- Belajar bikin AI 
+- Membangun proyek pribadi
+- Ngepush biar full hijau GitHub
+- Belajar Cyber Security 
+
+---
+
+![Anime](https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif)
