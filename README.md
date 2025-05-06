@@ -16,9 +16,7 @@
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
 
 ### GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Akbar-Lab-droid&show_icons=true&theme=radical" />
-  <br>
+![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akbar-Lab-droid&show_icons=true&theme=radical&cache_seconds=30)
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Akbar-Lab-droid&theme=radical" />
 </p>
 
