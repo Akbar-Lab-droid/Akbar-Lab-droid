@@ -17,7 +17,7 @@
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=akbarramadhan&cache_seconds=1)
+![Akbar's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Akbar-Lab-droid&show_icons=true&theme=radical&cache_seconds=30)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Akbar-Lab-droid&layout=compact&theme=radical)
 
 ### GitHub Streak
