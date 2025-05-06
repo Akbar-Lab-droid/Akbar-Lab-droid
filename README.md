@@ -30,4 +30,4 @@
 
 ---
 
-![Anime](https://giphy.com/gifs/jOZt5tdGYxzz0H6Nfi)
+![Sung Jin Wo](https://media.giphy.com/media/jOZt5tdGYxzz0H6Nfi/giphy.gif)
